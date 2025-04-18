@@ -18,7 +18,7 @@ A Python script that creates file/directory structures from ASCII art tree repre
 
 ### Setup
 ```bash
-git clone https://github.com/yourusername/directory-structure-generator.git
+git clone https://github.com/alphac137/directory-structure-generator.git
 cd directory-structure-generator
 ```
 
